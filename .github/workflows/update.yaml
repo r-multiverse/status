@@ -44,9 +44,6 @@ jobs:
           repository: '${{ github.repository_owner }}/community'
           path: 'source_community'
 
-      - name: Setup tmate session
-        uses: mxschmitt/action-tmate@v3
-
       - name: Update package status
         run: |
           multiverse.internals::update_status(
