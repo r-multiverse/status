@@ -36,13 +36,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: '${{ github.repository_owner }}/staging'
-          path: 'staging'
+          path: 'source_staging'
 
       - name: Check out the community universe.
         uses: actions/checkout@v4
         with:
           repository: '${{ github.repository_owner }}/community'
-          path: 'community'
+          path: 'source_community'
 
       - name: Setup tmate session
         uses: mxschmitt/action-tmate@v3
@@ -51,15 +51,15 @@ jobs:
         run: |
           multiverse.internals::update_status(
             path_status = getwd(),
-            path_staging = "staging",
-            path_community = "community",
+            path_staging = "source_staging",
+            path_community = "source_community",
             repo_staging = "https://staging.r-multiverse.org",
             repo_community = "https://community.r-multiverse.org"
           )
         shell: Rscript {0}
 
       - name: Remove staging and community universe clones.
-        run: rm -rf staging community
+        run: rm -rf source_staging source_community
 
       - name: Commit and push changes.
         run: |
