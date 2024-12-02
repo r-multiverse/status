@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>igraph</title>
+  <atom:link href="https://r-multiverse.org/status/community/igraph.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/igraph.html</link>
+  <description>igraph</description>
+  <item>
+    <title>igraph: success</title>
+    <guid isPermaLink="false">40edbefd4eb1d1d4a74b390c858a38782ff923ed</guid>
+    <link>https://r-multiverse.org/status/community/igraph.html</link>
+    <description>Package igraph has no recorded issues.</description>
+  </item>
+</channel>
+</rss>

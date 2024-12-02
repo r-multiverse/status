@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>colorout</title>
+  <atom:link href="https://r-multiverse.org/status/staging/colorout.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/colorout.html</link>
+  <description>colorout</description>
+  <item>
+    <title>colorout: issues found</title>
+    <guid isPermaLink="false">6eca95213c6cb2fae1c2c4eaccf43de4c93a65b5</guid>
+    <link>https://r-multiverse.org/status/staging/colorout.html</link>
+    <description>R-multiverse found issues with package colorout version 1.3-2 remote hash 6eca95213c6cb2fae1c2c4eaccf43de4c93a65b5 since 2024-12-02.<br><br>Not all checks succeeded on R-universe. The following output shows the check status on each platform, the overall build status, and the build URL. Visit the build URL for specific details on the check failures.<br><br>_linuxdevel: success<br>_macbinary: success<br>_winbinary: none<br>_status: success<br>_buildurl: https://github.com/r-universe/r-multiverse-staging/actions/runs/11829710888</description>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>multiverse.internals</title>
+  <atom:link href="https://r-multiverse.org/status/staging/multiverse.internals.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/multiverse.internals.html</link>
+  <description>multiverse.internals</description>
+  <item>
+    <title>multiverse.internals: success</title>
+    <guid isPermaLink="false">f7b8ac48f080e1484f4728913da8399702e0eeae</guid>
+    <link>https://r-multiverse.org/status/staging/multiverse.internals.html</link>
+    <description>Package multiverse.internals has no recorded issues.</description>
+  </item>
+</channel>
+</rss>

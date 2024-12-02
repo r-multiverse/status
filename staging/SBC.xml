@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>SBC</title>
+  <atom:link href="https://r-multiverse.org/status/staging/SBC.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/SBC.html</link>
+  <description>SBC</description>
+  <item>
+    <title>SBC: issues found</title>
+    <guid isPermaLink="false">9ddc803105f5350dae6efb4ae2657e89d2a54aa8</guid>
+    <link>https://r-multiverse.org/status/staging/SBC.html</link>
+    <description>R-multiverse found issues with package SBC version 0.3.0.9000 remote hash 9ddc803105f5350dae6efb4ae2657e89d2a54aa8 since 2024-12-02.<br><br>Not all checks succeeded on R-universe. The following output shows the check status on each platform, the overall build status, and the build URL. Visit the build URL for specific details on the check failures.<br><br>_linuxdevel: success<br>_macbinary: success<br>_winbinary: success<br>_status: failure<br>_buildurl: https://github.com/r-universe/r-multiverse-staging/actions/runs/11967241910</description>
+  </item>
+</channel>
+</rss>

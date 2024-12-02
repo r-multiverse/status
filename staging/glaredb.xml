@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>glaredb</title>
+  <atom:link href="https://r-multiverse.org/status/staging/glaredb.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/glaredb.html</link>
+  <description>glaredb</description>
+  <item>
+    <title>glaredb: issues found</title>
+    <guid isPermaLink="false">349c5bb3a1fca6a8cefae381094b046c8ce028b2</guid>
+    <link>https://r-multiverse.org/status/staging/glaredb.html</link>
+    <description>R-multiverse found issues with package glaredb version 0.0.4 remote hash 349c5bb3a1fca6a8cefae381094b046c8ce028b2 since 2024-12-02.<br><br>Not all checks succeeded on R-universe. The following output shows the check status on each platform, the overall build status, and the build URL. Visit the build URL for specific details on the check failures.<br><br>_linuxdevel: success<br>_macbinary: success<br>_winbinary: none<br>_status: success<br>_buildurl: https://github.com/r-universe/r-multiverse-staging/actions/runs/11876493280</description>
+  </item>
+</channel>
+</rss>

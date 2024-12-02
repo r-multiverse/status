@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>mirai</title>
+  <atom:link href="https://r-multiverse.org/status/community/mirai.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/mirai.html</link>
+  <description>mirai</description>
+  <item>
+    <title>mirai: success</title>
+    <guid isPermaLink="false">7eabdb6c1bec71cccd4f38b1ca5336d4bb75df2e</guid>
+    <link>https://r-multiverse.org/status/community/mirai.html</link>
+    <description>Package mirai has no recorded issues.</description>
+  </item>
+</channel>
+</rss>

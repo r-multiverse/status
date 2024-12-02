@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>httpgd</title>
+  <atom:link href="https://r-multiverse.org/status/staging/httpgd.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/httpgd.html</link>
+  <description>httpgd</description>
+  <item>
+    <title>httpgd: success</title>
+    <guid isPermaLink="false">b0a5ec38638ca69e3adbc7b24d815757e5f74817</guid>
+    <link>https://r-multiverse.org/status/staging/httpgd.html</link>
+    <description>Package httpgd has no recorded issues.</description>
+  </item>
+</channel>
+</rss>

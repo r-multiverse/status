@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>taxizedb</title>
+  <atom:link href="https://r-multiverse.org/status/community/taxizedb.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/taxizedb.html</link>
+  <description>taxizedb</description>
+  <item>
+    <title>taxizedb: issues found</title>
+    <guid isPermaLink="false">5732f9777142cd0034b64d5ae8b9aea0605cfaab</guid>
+    <link>https://r-multiverse.org/status/community/taxizedb.html</link>
+    <description>R-multiverse found issues with package taxizedb version 0.3.1 remote hash 5732f9777142cd0034b64d5ae8b9aea0605cfaab since 2024-12-02.<br><br>Not all checks succeeded on R-universe. The following output shows the check status on each platform, the overall build status, and the build URL. Visit the build URL for specific details on the check failures.<br><br>_linuxdevel: success<br>_macbinary: failure<br>_winbinary: failure<br>_status: success<br>_buildurl: https://github.com/r-universe/r-multiverse/actions/runs/11825909535</description>
+  </item>
+</channel>
+</rss>

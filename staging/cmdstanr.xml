@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>cmdstanr</title>
+  <atom:link href="https://r-multiverse.org/status/staging/cmdstanr.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/cmdstanr.html</link>
+  <description>cmdstanr</description>
+  <item>
+    <title>cmdstanr: success</title>
+    <guid isPermaLink="false">02259ef7aa2a8b1c8de2fa3fc42a9feafd789288</guid>
+    <link>https://r-multiverse.org/status/staging/cmdstanr.html</link>
+    <description>Package cmdstanr has no recorded issues.</description>
+  </item>
+</channel>
+</rss>

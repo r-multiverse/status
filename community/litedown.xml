@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>litedown</title>
+  <atom:link href="https://r-multiverse.org/status/community/litedown.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/litedown.html</link>
+  <description>litedown</description>
+  <item>
+    <title>litedown: success</title>
+    <guid isPermaLink="false">0d38691a690d142428f774bbc15d5095a0af5ba4</guid>
+    <link>https://r-multiverse.org/status/community/litedown.html</link>
+    <description>Package litedown has no recorded issues.</description>
+  </item>
+</channel>
+</rss>
