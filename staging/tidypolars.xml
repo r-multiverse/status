@@ -9,7 +9,7 @@
     <title>tidypolars: issues found</title>
     <guid isPermaLink="false">4508d4d25685eed1ecee8a9450c9b804b34311ef</guid>
     <link>https://r-multiverse.org/status/staging/tidypolars.html</link>
-    <description>R-multiverse found issues with package tidypolars version 0.11.0 remote hash 9144fbf40ca20f30509bad27068d4fca47a81b2e since 2024-12-02.<br><br>One or more dependencies have issues. Packages polars are causing problems upstream. Dependency polars is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION of tidypolars.</description>
+    <description>Visit https://r-multiverse.org/status/staging/tidypolars.html to learn about the problems.</description>
   </item>
 </channel>
 </rss>

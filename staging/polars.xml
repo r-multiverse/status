@@ -9,7 +9,7 @@
     <title>polars: issues found</title>
     <guid isPermaLink="false">a76b8d56e6f39a6157880069f9d32f3cc1f574d7</guid>
     <link>https://r-multiverse.org/status/staging/polars.html</link>
-    <description>R-multiverse found issues with package polars version 0.20.0 remote hash 4bd16001d935d2e0b6e7d15d7aac12dc1cc35ec9 since 2024-12-02.<br><br>Not all checks succeeded on R-universe. The following output shows the check status on each platform, the overall build status, and the build URL. Visit the build URL for specific details on the check failures.<br><br>_linuxdevel: failure<br>_macbinary: failure<br>_winbinary: failure<br>_status: success<br>_buildurl: https://github.com/r-universe/r-multiverse-staging/actions/runs/11866529353</description>
+    <description>Visit https://r-multiverse.org/status/staging/polars.html to learn about the problems.</description>
   </item>
 </channel>
 </rss>

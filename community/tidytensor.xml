@@ -9,7 +9,7 @@
     <title>tidytensor: issues found</title>
     <guid isPermaLink="false">14f5b87d2dfae20eb35cfd974adf660a4fd89980</guid>
     <link>https://r-multiverse.org/status/community/tidytensor.html</link>
-    <description>R-multiverse found issues with package tidytensor version 1.0.0 remote hash 14f5b87d2dfae20eb35cfd974adf660a4fd89980 since 2024-12-02.<br><br>Not all checks succeeded on R-universe. The following output shows the check status on each platform, the overall build status, and the build URL. Visit the build URL for specific details on the check failures.<br><br>_linuxdevel: success<br>_macbinary: success<br>_winbinary: success<br>_status: failure<br>_buildurl: https://github.com/r-universe/r-multiverse/actions/runs/12133663821</description>
+    <description>Visit https://r-multiverse.org/status/community/tidytensor.html to learn about the problems.</description>
   </item>
 </channel>
 </rss>
