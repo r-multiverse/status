@@ -9,17 +9,7 @@
     <title>DEPAHRI: issues found</title>
     <guid isPermaLink="false">87459858693a051761b2a64de31a5d7c70d0dc5b</guid>
     <link>https://r-multiverse.org/status/community/DEPAHRI.html</link>
-    <description>R-multiverse found issues with package DEPAHRI version 0.0.0.9000 remote hash 87459858693a051761b2a64de31a5d7c70d0dc5b since 2024-12-02.
-
-Package DEPAHRI declares license "TBD" in its DESCRIPTION file. R-multiverse cannot verify that this license is a valid free and open-source license (c.f. https://en.wikipedia.org/wiki/Free_and_open-source_software). Each package contributed to R-multiverse must have a valid open-source license to protect the intellectual property rights of the package owners.
-
-Not all checks succeeded on R-universe. The following output shows the check status on each platform, the overall build status, and the build URL. Visit the build URL for specific details on the check failures.
-
-_linuxdevel: success
-_macbinary: success
-_winbinary: success
-_status: failure
-_buildurl: https://github.com/r-universe/r-multiverse/actions/runs/11898760983</description>
+    <description>Visit <link>https://r-multiverse.org/status/community/DEPAHRI.html</link> for details.</description>
   </item>
 </channel>
 </rss>
