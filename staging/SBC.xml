@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>SBC</title>
+  <atom:link href="https://r-multiverse.org/status/staging/SBC.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/SBC.html</link>
+  <description>SBC</description>
+  <item>
+    <title>SBC: success</title>
+    <guid isPermaLink="false">9ddc803105f5350dae6efb4ae2657e89d2a54aa8</guid>
+    <link>https://r-multiverse.org/status/staging/SBC.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/SBC.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

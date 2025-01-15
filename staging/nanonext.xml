@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>nanonext</title>
+  <atom:link href="https://r-multiverse.org/status/staging/nanonext.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/nanonext.html</link>
+  <description>nanonext</description>
+  <item>
+    <title>nanonext: success</title>
+    <guid isPermaLink="false">a7394f4505097a4e1a2078ac6bc05fa23b1ea7bf</guid>
+    <link>https://r-multiverse.org/status/staging/nanonext.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/nanonext.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

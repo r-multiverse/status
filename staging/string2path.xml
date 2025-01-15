@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>string2path</title>
+  <atom:link href="https://r-multiverse.org/status/staging/string2path.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/string2path.html</link>
+  <description>string2path</description>
+  <item>
+    <title>string2path: success</title>
+    <guid isPermaLink="false">cf63b1c5c65177e09be2813026ddee995ece81b0</guid>
+    <link>https://r-multiverse.org/status/staging/string2path.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/string2path.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
