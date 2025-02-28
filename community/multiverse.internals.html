@@ -1,8 +1,13 @@
 <!doctype html>
 <html>
-  <head><title>multiverse.internals: success</title></head>
+  <head><title>multiverse.internals: issues found</title></head>
   <body>
-    <p>Package multiverse.internals has no recorded issues.</p>
+    <p>R-multiverse found issues with package multiverse.internals version 0.3.6 remote hash f00e40d314867b6a288cf8700a6bc1f03f643090 (as of 2025-02-28).<br><br>Not all checks succeeded on R-universe. The following output shows the check status on each enforced platform and version of R. The GitHub Actions URL links to the check logs on all platforms that R-universe runs.Visit that URL to see specific details on the check failures.<br><pre>url: <a href="https://github.com/r-universe/r-multiverse/actions/runs/13332154217">https://github.com/r-universe/r-multiverse/actions/runs/13332154217</a>
+issues:
+  mac R-release: MISSING
+  win R-release: MISSING
+</pre>One or more strong R package dependencies have issues: igraph, nanonext, rlang. Dependencies igraph, nanonext are explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of multiverse.internals. Dependency rlang is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of multiverse.internals, but it is upstream of one or more strong direct dependencies:<br><pre>rlang: igraph
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/multiverse.internals.xml">https://r-multiverse.org/status/community/multiverse.internals.xml</a> for automatic notifications
       about changes to the status of package multiverse.internals.
