@@ -51,9 +51,7 @@ jobs:
           multiverse.internals::update_status(
             path_status = getwd(),
             path_staging = "source_staging",
-            path_community = "source_community",
-            repo_staging = "https://staging.r-multiverse.org",
-            repo_community = "https://community.r-multiverse.org"
+            path_community = "source_community"
           )
         shell: Rscript {0}
 
