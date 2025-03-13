@@ -18,7 +18,7 @@ website:
     - text: R-multiverse
       url: https://r-multiverse.org
     - text: Status
-      url: status.md
+      url: index.md
     - text: Community
       url: community.md
     - text: Staging
