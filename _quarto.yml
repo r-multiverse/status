@@ -17,10 +17,14 @@ website:
     left:
     - text: R-multiverse
       url: https://r-multiverse.org
+    - text: Status
+      url: status.md
     - text: Community
       url: community.md
     - text: Staging
       url: staging.md
+    - text: Production
+      url: production.md
     tools:
       - icon: github
         aria-label: "GitHub"
