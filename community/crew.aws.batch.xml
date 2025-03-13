@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>crew.aws.batch</title>
+  <atom:link href="https://r-multiverse.org/status/community/crew.aws.batch.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/crew.aws.batch.html</link>
+  <description>crew.aws.batch</description>
+  <item>
+    <title>crew.aws.batch: success</title>
+    <guid isPermaLink="false">136fedb9df30123b7c216ac75a66f29e8e94f2c1</guid>
+    <link>https://r-multiverse.org/status/community/crew.aws.batch.html</link>
+    <description>Visit https://r-multiverse.org/status/community/crew.aws.batch.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
