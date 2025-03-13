@@ -8,3 +8,4 @@ See the [Production documentation](https://r-multiverse.org/production.html) for
 |Package|Version|Status last changed|
 |:--|:--|:--|
 PACKAGES
+: {.striped}
