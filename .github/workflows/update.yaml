@@ -29,10 +29,10 @@ jobs:
           use-public-rspm: true
 
       - name: Install helper R package.
+        shell: Rscript {0}
         run: |
           install.packages("pak")
           pak::pkg_install("r-multiverse/multiverse.internals@*release")
-        shell: Rscript {0}
 
       - name: Check out the status repository.
         uses: actions/checkout@v4
@@ -50,13 +50,13 @@ jobs:
           path: 'source_community'
 
       - name: Update package status.
+        shell: Rscript {0}
         run: |
           multiverse.internals::update_status(
             path_status = getwd(),
             path_staging = "source_staging",
             path_community = "source_community"
           )
-        shell: Rscript {0}
 
       - name: Remove staging and community universe clones.
         run: rm -rf source_staging source_community
