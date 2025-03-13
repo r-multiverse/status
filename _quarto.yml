@@ -2,7 +2,10 @@ project:
   type: website
   output-dir: docs
   render:
-    - "*.md"
+    - index.md
+    - community.md
+    - staging.md
+    - production.md
 
 website:
   title: "R-multiverse"
