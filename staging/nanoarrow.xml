@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>nanoarrow</title>
+  <atom:link href="https://r-multiverse.org/status/staging/nanoarrow.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/nanoarrow.html</link>
+  <description>nanoarrow</description>
+  <item>
+    <title>nanoarrow: success</title>
+    <guid isPermaLink="false">33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd</guid>
+    <link>https://r-multiverse.org/status/staging/nanoarrow.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/nanoarrow.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>adbcsnowflake</title>
+  <atom:link href="https://r-multiverse.org/status/community/adbcsnowflake.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/adbcsnowflake.html</link>
+  <description>adbcsnowflake</description>
+  <item>
+    <title>adbcsnowflake: success</title>
+    <guid isPermaLink="false">8b4ba558d1e9db9afbea6ef2d50acd979f647799</guid>
+    <link>https://r-multiverse.org/status/community/adbcsnowflake.html</link>
+    <description>Visit https://r-multiverse.org/status/community/adbcsnowflake.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

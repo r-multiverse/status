@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>audio.whisper</title>
+  <atom:link href="https://r-multiverse.org/status/community/audio.whisper.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/audio.whisper.html</link>
+  <description>audio.whisper</description>
+  <item>
+    <title>audio.whisper: issues found</title>
+    <guid isPermaLink="false">4b5c6a288c0f46a4cdc47f50d2d35395d3e32194</guid>
+    <link>https://r-multiverse.org/status/community/audio.whisper.html</link>
+    <description>Visit https://r-multiverse.org/status/community/audio.whisper.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

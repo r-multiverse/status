@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>milRex</title>
+  <atom:link href="https://r-multiverse.org/status/community/milRex.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/milRex.html</link>
+  <description>milRex</description>
+  <item>
+    <title>milRex: success</title>
+    <guid isPermaLink="false">3a8c6096b0e162445f119fc2dfc46ff41d0089ba</guid>
+    <link>https://r-multiverse.org/status/community/milRex.html</link>
+    <description>Visit https://r-multiverse.org/status/community/milRex.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

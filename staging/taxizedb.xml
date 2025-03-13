@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>taxizedb</title>
+  <atom:link href="https://r-multiverse.org/status/staging/taxizedb.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/taxizedb.html</link>
+  <description>taxizedb</description>
+  <item>
+    <title>taxizedb: success</title>
+    <guid isPermaLink="false">5732f9777142cd0034b64d5ae8b9aea0605cfaab</guid>
+    <link>https://r-multiverse.org/status/staging/taxizedb.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/taxizedb.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

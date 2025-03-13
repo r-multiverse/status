@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>prqlr</title>
+  <atom:link href="https://r-multiverse.org/status/community/prqlr.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/prqlr.html</link>
+  <description>prqlr</description>
+  <item>
+    <title>prqlr: success</title>
+    <guid isPermaLink="false">09c7b87e0eabd77e0b7f2c74995fa79e27f2a176</guid>
+    <link>https://r-multiverse.org/status/community/prqlr.html</link>
+    <description>Visit https://r-multiverse.org/status/community/prqlr.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

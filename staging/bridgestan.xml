@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>bridgestan</title>
+  <atom:link href="https://r-multiverse.org/status/staging/bridgestan.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/bridgestan.html</link>
+  <description>bridgestan</description>
+  <item>
+    <title>bridgestan: issues found</title>
+    <guid isPermaLink="false">b161ca7a1d417213b084c4a8c2d53fa44f7e8284</guid>
+    <link>https://r-multiverse.org/status/staging/bridgestan.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/bridgestan.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

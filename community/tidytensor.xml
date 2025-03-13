@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>tidytensor</title>
+  <atom:link href="https://r-multiverse.org/status/community/tidytensor.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/tidytensor.html</link>
+  <description>tidytensor</description>
+  <item>
+    <title>tidytensor: issues found</title>
+    <guid isPermaLink="false">14f5b87d2dfae20eb35cfd974adf660a4fd89980</guid>
+    <link>https://r-multiverse.org/status/community/tidytensor.html</link>
+    <description>Visit https://r-multiverse.org/status/community/tidytensor.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

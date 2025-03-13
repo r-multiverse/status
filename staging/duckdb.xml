@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>duckdb</title>
+  <atom:link href="https://r-multiverse.org/status/staging/duckdb.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/duckdb.html</link>
+  <description>duckdb</description>
+  <item>
+    <title>duckdb: success</title>
+    <guid isPermaLink="false">d7b7108c2e526fa125669439cabc179021585d43</guid>
+    <link>https://r-multiverse.org/status/staging/duckdb.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/duckdb.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

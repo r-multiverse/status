@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>polars</title>
+  <atom:link href="https://r-multiverse.org/status/community/polars.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/polars.html</link>
+  <description>polars</description>
+  <item>
+    <title>polars: success</title>
+    <guid isPermaLink="false">eb931c234e305b762ebf82b61157ad64d1bd1eac</guid>
+    <link>https://r-multiverse.org/status/community/polars.html</link>
+    <description>Visit https://r-multiverse.org/status/community/polars.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

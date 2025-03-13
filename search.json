@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "staging.html",
+    "href": "staging.html",
+    "title": "Staging issues",
+    "section": "",
+    "text": "The following packages have R-multiverse check issues in Staging.\n\n\n\nPackage\nVersion\nLatest status update\n\n\n\n\nasylum\n\n\n\n\naudio.whisper\n\n\n\n\nbridgestan\n\n\n\n\ncolorout\n\n\n\n\ndemographr\n\n\n\n\ngeographr\n\n\n\n\nglaredb\n\n\n\n\nhealthyr\n\n\n\n\nhttpgd\n\n\n\n\nIMD\n\n\n\n\nINLA\n\n\n\n\nlitedown\n\n\n\n\nloneliness\n\n\n\n\nSBC\n\n\n\n\nstantargets\n\n\n\n\ntidytensor\n\n\n\n\nwebseq\n\n\n\n\nwildfires"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R-multiverse package status",
+    "section": "",
+    "text": "This website reports the check status of each package on R-multiverse."
+  },
+  {
+    "objectID": "index.html#production",
+    "href": "index.html#production",
+    "title": "R-multiverse package status",
+    "section": "Production",
+    "text": "Production\nThe Production status page lists the packages staged for the targeted Production snapshot. Packages are staged for Production if they pass R-multiverse checks at least once in the month-long period prior to the snapshot date."
+  },
+  {
+    "objectID": "index.html#status-summaries",
+    "href": "index.html#status-summaries",
+    "title": "R-multiverse package status",
+    "section": "Status summaries",
+    "text": "Status summaries\nThe following pages list packages with R-multiverse check issues.\n\nCommunity issues\nProduction issues"
+  },
+  {
+    "objectID": "index.html#status-details",
+    "href": "index.html#status-details",
+    "title": "R-multiverse package status",
+    "section": "Status details",
+    "text": "Status details\nEach package has its own human-readable HTML page and RSS feed for each of Community and Staging. For example, the polars package has:\n\n\n\n\nHTML\nRSS\n\n\n\n\nCommunity\ncommunity/polars.html\ncommunity/polars.xml\n\n\nStaging\nstaging/polars.html\nstaging/polars.xml"
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "MIT License",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2024 Eli Lilly and Company\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community issues",
+    "section": "",
+    "text": "The following packages have R-multiverse check issues in Community.\n\n\n\nPackage\nVersion\nLatest status update\n\n\n\n\nasylum\n\n\n\n\naudio.whisper\n\n\n\n\nbridgestan\n\n\n\n\ncolorout\n\n\n\n\ndemographr\n\n\n\n\ngeographr\n\n\n\n\nglaredb\n\n\n\n\nhealthyr\n\n\n\n\nIMD\n\n\n\n\nINLA\n\n\n\n\nloneliness\n\n\n\n\nprophet\n\n\n\n\nSBC\n\n\n\n\nstantargets\n\n\n\n\ntidypolars\n\n\n\n\ntidytensor\n\n\n\n\nwebseq\n\n\n\n\nwildfires"
+  },
+  {
+    "objectID": "production.html",
+    "href": "production.html",
+    "title": "2025-03-15 Production snapshot",
+    "section": "",
+    "text": "The following packages are staged for the 2025-03-15 Production snapshot because they passed R-multiverse checks at least once during the month-long period leading up to the snapshot date. See the Production documentation for details.\n\n\n\nPackage\nVersion\nLatest status update\n\n\n\n\nadbcbigquery\n0.17.0\n2025-03-06\n\n\nadbcdrivermanager\n0.17.0\n2025-03-06\n\n\nadbcflightsql\n0.17.0\n2025-03-06\n\n\nadbcsnowflake\n0.17.0\n2025-03-06\n\n\narrow\n19.0.1\n2025-03-06\n\n\naudio.vadwebrtc\n0.2\n2025-03-06\n\n\ncmdstanr\n0.8.1\n2025-03-06\n\n\ncrew\n1.0.0\n2025-03-06\n\n\nduckdb\n1.2.0\n2025-03-06\n\n\nichimoku\n1.5.5\n2025-03-06\n\n\nigraph\n2.1.4\n2025-03-06\n\n\njagstargets\n1.2.3\n2025-03-06\n\n\nlater\n1.4.1\n2025-03-06\n\n\nmilRex\n1.1.0\n2025-03-06\n\n\nmirai\n2.1.0\n2025-03-06\n\n\nmultitools\n0.1.1\n2025-03-06\n\n\nmultiverse.internals\n0.4.2\n2025-03-06\n\n\nnanoarrow\n0.6.0\n2025-03-06\n\n\nnanonext\n1.5.1\n2025-03-06\n\n\npolars\n0.22.1\n2025-03-03\n\n\nprophet\n1.1.6\n2025-03-06\n\n\nprqlr\n0.10.0\n2025-03-06\n\n\nrJavaEnv\n0.2.2\n2025-03-06\n\n\nrlang\n1.1.5\n2025-03-06\n\n\nstring2path\n0.2.0\n2025-03-06\n\n\ntargetsketch\n0.0.1\n2025-03-06\n\n\ntaxizedb\n0.3.1\n2025-03-06\n\n\ntidypolars\n0.12.0\n2025-03-03\n\n\nunigd\n0.1.2\n2025-03-06\n\n\nwebchem\n1.3.0\n2025-03-06\n\n\nzstdlite\n0.2.6\n2025-03-06"
+  }
+]

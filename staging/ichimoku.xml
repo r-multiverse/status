@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>ichimoku</title>
+  <atom:link href="https://r-multiverse.org/status/staging/ichimoku.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/ichimoku.html</link>
+  <description>ichimoku</description>
+  <item>
+    <title>ichimoku: success</title>
+    <guid isPermaLink="false">223c74e74a188c2e3d0a57a0700bd44b2468f404</guid>
+    <link>https://r-multiverse.org/status/staging/ichimoku.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/ichimoku.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
