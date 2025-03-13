@@ -21,7 +21,9 @@ The following pages list packages with [R-multiverse check](https://r-multiverse
 Each package has its own human-readable HTML page and RSS feed for each of [Community](https://r-multiverse.org/community.html) and [Staging](https://r-multiverse.org/production.html#staging).
 For example, the [`polars`](https://pola-rs.github.io/r-polars/) package has:
 
-||HTML|RSS|
+|HTML|RSS|
 |:--|:--|:--|
-|Community| [`community/polars.html`](https://r-multiverse.org/status/community/polars.html) | [`community/polars.xml`](https://r-multiverse.org/status/community/polars.xml)
-|Staging|[`staging/polars.html`](https://r-multiverse.org/status/staging/polars.html) | [`staging/polars.xml`](https://r-multiverse.org/status/staging/polars.xml)
+| Community | [community/polars.html](https://r-multiverse.org/status/community/polars.html) | [community/polars.xml](https://r-multiverse.org/status/community/polars.xml) |
+| Staging | [staging/polars.html](https://r-multiverse.org/status/staging/polars.html) | [staging/polars.xml](https://r-multiverse.org/status/staging/polars.xml) |
+
+: {.striped}
