@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://r-multiverse.org/staging.html</loc>
-    <lastmod>2025-03-13T18:51:16.156Z</lastmod>
-  </url>
-  <url>
-    <loc>https://r-multiverse.org/index.html</loc>
-    <lastmod>2025-03-13T18:51:13.435Z</lastmod>
-  </url>
-  <url>
-    <loc>https://r-multiverse.org/LICENSE.html</loc>
-    <lastmod>2025-03-13T18:51:13.435Z</lastmod>
+    <loc>https://r-multiverse.org/production.html</loc>
+    <lastmod>2025-03-13T19:13:43.528Z</lastmod>
   </url>
   <url>
     <loc>https://r-multiverse.org/community.html</loc>
-    <lastmod>2025-03-13T18:51:16.207Z</lastmod>
+    <lastmod>2025-03-13T19:13:43.488Z</lastmod>
   </url>
   <url>
-    <loc>https://r-multiverse.org/production.html</loc>
-    <lastmod>2025-03-13T18:51:16.252Z</lastmod>
+    <loc>https://r-multiverse.org/index.html</loc>
+    <lastmod>2025-03-13T19:13:40.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https://r-multiverse.org/staging.html</loc>
+    <lastmod>2025-03-13T19:13:43.437Z</lastmod>
   </url>
 </urlset>
