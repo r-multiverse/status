@@ -61,15 +61,6 @@ jobs:
       - name: Remove staging and community universe clones.
         run: rm -rf source_staging source_community
 
-      - name: Cache results
-        uses: actions/cache@v4.2.0
-        with:
-          path: |
-            docs
-            _freeze
-          key: site-render-${{ hashFiles('**/*md') }}
-          restore-keys: site-render-
-
       - name: Render site.
         run: quarto render
         
