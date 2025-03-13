@@ -7,3 +7,5 @@ The following packages have [R-multiverse check issues](https://r-multiverse.org
 |Package|Version|Status last changed|
 |:--|:--|:--|
 PACKAGES
+
+: {.striped}
