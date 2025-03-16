@@ -2,11 +2,11 @@
 <html>
   <head><title>stantargets: issues found</title></head>
   <body>
-    <p>R-multiverse found issues with package stantargets version 0.1.2 remote hash 638326106594be70c5f851c767349e4192740771 (last published at 2025-03-03 13:13:16.874 UTC).<br><br>Not all checks succeeded on R-universe. The following output shows the check status on each enforced platform and version of R. The GitHub Actions URL links to the check logs on all platforms that R-universe runs.Visit that URL to see specific details on the check failures.<br><pre>url: <a href="https://github.com/r-universe/r-multiverse/actions/runs/13631287435">https://github.com/r-universe/r-multiverse/actions/runs/13631287435</a>
-issues:
+    <p>R-multiverse found issues with package stantargets version 0.1.2 remote hash 638326106594be70c5f851c767349e4192740771 (last published at 2025-03-03 13:13:16.874 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following output shows the check status on each enforced platform and version of R. The GitHub Actions URL links to the check logs on all platforms that R-universe runs. Visit that URL to see specific details on the check failures.<br><pre>issues:
   linux R-4.4.3: WARNING
   mac R-4.4.3: WARNING
   win R-4.4.3: WARNING
+url: <a href="https://github.com/r-universe/r-multiverse/actions/runs/13631287435">https://github.com/r-universe/r-multiverse/actions/runs/13631287435</a>
 </pre>One or more strong R package dependencies have issues: targets. Dependency targets is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets, but it is upstream of one or more strong direct dependencies:<br><pre>targets: tarchetypes
 </pre>Package releases should not use the 'Remotes:' field. Found:<br><pre>- hyunjimoon/SBC
 - stan-dev/cmdstanr
