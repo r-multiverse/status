@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Rvision</title>
+  <atom:link href="https://r-multiverse.org/status/community/Rvision.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/Rvision.html</link>
+  <description>Rvision</description>
+  <item>
+    <title>Rvision: issues found</title>
+    <guid isPermaLink="false">972627f8aac8a0eb95f8b166e316cb9b0ee5930c</guid>
+    <link>https://r-multiverse.org/status/community/Rvision.html</link>
+    <description>Visit https://r-multiverse.org/status/community/Rvision.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
