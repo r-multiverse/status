@@ -3,10 +3,18 @@
   <head><title>stantargets: issues found</title></head>
   <body>
     <p>R-multiverse found issues with package stantargets version 0.1.2 remote hash 638326106594be70c5f851c767349e4192740771 (last published at 2025-04-02 06:45:42.877 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following output shows the check status on each enforced platform and version of R. The GitHub Actions URL links to the check logs on all platforms that R-universe runs. Visit that URL to see specific details on the check failures.<br><pre>issues:
-  linux R-4.4.3: WARNING
+  linux: MISSING
   mac R-4.4.3: WARNING
   win R-4.4.3: WARNING
 url: <a href="https://github.com/r-universe/r-multiverse/actions/runs/14213105761">https://github.com/r-universe/r-multiverse/actions/runs/14213105761</a>
+</pre>One or more strong R package dependencies have issues: cmdstanr, igraph, rlang, tarchetypes, targets. Dependencies cmdstanr, tarchetypes are explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets. Dependencies igraph, rlang, targets are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets, but they are upstream of one or more strong direct dependencies:<br><pre>igraph:
+- targets
+- tarchetypes
+rlang:
+- cmdstanr
+- targets
+- tarchetypes
+targets: tarchetypes
 </pre>Package releases should not use the 'Remotes:' field. Found:<br><pre>- hyunjimoon/SBC
 - stan-dev/cmdstanr
 </pre></p>

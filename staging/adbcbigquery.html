@@ -1,8 +1,12 @@
 <!doctype html>
 <html>
-  <head><title>adbcbigquery: success</title></head>
+  <head><title>adbcbigquery: issues found</title></head>
   <body>
-    <p>R-multiverse checks passed for package adbcbigquery version 0.17.0 remote hash 8b4ba558d1e9db9afbea6ef2d50acd979f647799 (last published at 2025-04-08 06:46:39.058 UTC).</p>
+    <p>R-multiverse found issues with package adbcbigquery version 0.17.0 remote hash 8b4ba558d1e9db9afbea6ef2d50acd979f647799 (last published at 2025-04-08 06:46:39.058 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following output shows the check status on each enforced platform and version of R. The GitHub Actions URL links to the check logs on all platforms that R-universe runs. Visit that URL to see specific details on the check failures.<br><pre>issues:
+  linux: MISSING
+url: <a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/14326744855">https://github.com/r-universe/r-multiverse-staging/actions/runs/14326744855</a>
+</pre>One or more strong R package dependencies have issues: adbcdrivermanager, nanoarrow. Dependency adbcdrivermanager is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of adbcbigquery. Dependency nanoarrow is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of adbcbigquery, but it is upstream of one or more strong direct dependencies:<br><pre>nanoarrow: adbcdrivermanager
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/staging/adbcbigquery.xml">https://r-multiverse.org/status/staging/adbcbigquery.xml</a> for automatic notifications
       about changes to the status of package adbcbigquery.

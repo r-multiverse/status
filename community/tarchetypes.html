@@ -1,8 +1,13 @@
 <!doctype html>
 <html>
-  <head><title>tarchetypes: success</title></head>
+  <head><title>tarchetypes: issues found</title></head>
   <body>
-    <p>R-multiverse checks passed for package tarchetypes version 0.13.0 remote hash 52e20f0fcdd3ad4433b359235086aea2cc8a15d8 (last published at 2025-04-10 18:00:06.188 UTC).</p>
+    <p>R-multiverse found issues with package tarchetypes version 0.13.0 remote hash 52e20f0fcdd3ad4433b359235086aea2cc8a15d8 (last published at 2025-04-10 18:00:06.188 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following output shows the check status on each enforced platform and version of R. The GitHub Actions URL links to the check logs on all platforms that R-universe runs. Visit that URL to see specific details on the check failures.<br><pre>issues:
+  linux: MISSING
+url: <a href="https://github.com/r-universe/r-multiverse/actions/runs/14387022059">https://github.com/r-universe/r-multiverse/actions/runs/14387022059</a>
+</pre>One or more strong R package dependencies have issues: igraph, rlang, targets. Dependency targets is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of tarchetypes. Dependencies igraph, rlang are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of tarchetypes, but they are upstream of one or more strong direct dependencies:<br><pre>igraph: targets
+rlang: targets
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/tarchetypes.xml">https://r-multiverse.org/status/community/tarchetypes.xml</a> for automatic notifications
       about changes to the status of package tarchetypes.

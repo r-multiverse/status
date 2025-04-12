@@ -1,8 +1,18 @@
 <!doctype html>
 <html>
-  <head><title>jagstargets: success</title></head>
+  <head><title>jagstargets: issues found</title></head>
   <body>
-    <p>R-multiverse checks passed for package jagstargets version 1.2.3 remote hash fef92d0d74f6e9832459ce4bee69396bca21fd3f (last published at 2025-04-02 06:36:42.288 UTC).</p>
+    <p>R-multiverse found issues with package jagstargets version 1.2.3 remote hash fef92d0d74f6e9832459ce4bee69396bca21fd3f (last published at 2025-04-02 06:36:42.288 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following output shows the check status on each enforced platform and version of R. The GitHub Actions URL links to the check logs on all platforms that R-universe runs. Visit that URL to see specific details on the check failures.<br><pre>issues:
+  linux: MISSING
+url: <a href="https://github.com/r-universe/r-multiverse/actions/runs/14212880650">https://github.com/r-universe/r-multiverse/actions/runs/14212880650</a>
+</pre>One or more strong R package dependencies have issues: igraph, rlang, tarchetypes, targets. Dependency tarchetypes is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of jagstargets. Dependencies igraph, rlang, targets are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of jagstargets, but they are upstream of one or more strong direct dependencies:<br><pre>igraph:
+- targets
+- tarchetypes
+rlang:
+- targets
+- tarchetypes
+targets: tarchetypes
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/jagstargets.xml">https://r-multiverse.org/status/community/jagstargets.xml</a> for automatic notifications
       about changes to the status of package jagstargets.

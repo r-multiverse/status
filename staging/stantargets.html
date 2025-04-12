@@ -3,10 +3,11 @@
   <head><title>stantargets: issues found</title></head>
   <body>
     <p>R-multiverse found issues with package stantargets version 0.1.2 remote hash 638326106594be70c5f851c767349e4192740771 (last published at 2025-04-02 06:47:20.213 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following output shows the check status on each enforced platform and version of R. The GitHub Actions URL links to the check logs on all platforms that R-universe runs. Visit that URL to see specific details on the check failures.<br><pre>issues:
-  linux R-4.4.3: WARNING
+  linux: MISSING
   mac R-4.4.3: WARNING
   win R-4.4.3: WARNING
 url: <a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/14213106037">https://github.com/r-universe/r-multiverse-staging/actions/runs/14213106037</a>
+</pre>One or more strong R package dependencies have issues: cmdstanr, rlang. Dependency cmdstanr is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets. Dependency rlang is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets, but it is upstream of one or more strong direct dependencies:<br><pre>rlang: cmdstanr
 </pre>Package releases should not use the 'Remotes:' field. Found:<br><pre>- hyunjimoon/SBC
 - stan-dev/cmdstanr
 </pre></p>
