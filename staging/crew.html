@@ -2,10 +2,7 @@
 <html>
   <head><title>crew: issues found</title></head>
   <body>
-    <p>R-multiverse found issues with package crew version 1.0.0 remote hash e28d0c782fbc22b3cd4129e5f30825a8a44c0f75 (last published at 2025-04-02 06:29:34.424 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following output shows the check status on each enforced platform and version of R. The GitHub Actions URL links to the check logs on all platforms that R-universe runs. Visit that URL to see specific details on the check failures.<br><pre>issues:
-  linux: MISSING
-url: <a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/14212880225">https://github.com/r-universe/r-multiverse-staging/actions/runs/14212880225</a>
-</pre>One or more strong R package dependencies have issues: later, mirai, nanonext, rlang. Dependencies later, mirai are explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of crew. Dependencies nanonext, rlang are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of crew, but they are upstream of one or more strong direct dependencies:<br><pre>nanonext: mirai
+    <p>R-multiverse found issues with package crew version 1.0.0 remote hash e28d0c782fbc22b3cd4129e5f30825a8a44c0f75 (last published at 2025-04-02 06:29:34.424 UTC).<br><br>One or more strong R package dependencies have issues: nanonext, rlang. Dependencies nanonext, rlang are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of crew, but they are upstream of one or more strong direct dependencies:<br><pre>nanonext: mirai
 rlang: later
 </pre></p>
     <p>

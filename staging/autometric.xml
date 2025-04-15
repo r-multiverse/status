@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>autometric</title>
+  <atom:link href="https://r-multiverse.org/status/staging/autometric.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/autometric.html</link>
+  <description>autometric</description>
+  <item>
+    <title>autometric: issues found</title>
+    <guid isPermaLink="false">36e98ae76feb34de0783d6505f7f2a17e972fe23</guid>
+    <link>https://r-multiverse.org/status/staging/autometric.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/autometric.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

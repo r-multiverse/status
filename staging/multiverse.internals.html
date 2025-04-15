@@ -2,10 +2,7 @@
 <html>
   <head><title>multiverse.internals: issues found</title></head>
   <body>
-    <p>R-multiverse found issues with package multiverse.internals version 0.4.2 remote hash ae919e610a6dc01bd85cee85166b2637a0569bd9 (last published at 2025-04-08 06:40:46.901 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following output shows the check status on each enforced platform and version of R. The GitHub Actions URL links to the check logs on all platforms that R-universe runs. Visit that URL to see specific details on the check failures.<br><pre>issues:
-  linux: MISSING
-url: <a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/14326745791">https://github.com/r-universe/r-multiverse-staging/actions/runs/14326745791</a>
-</pre>One or more strong R package dependencies have issues: igraph, nanonext, rlang. Dependencies igraph, nanonext are explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of multiverse.internals. Dependency rlang is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of multiverse.internals, but it is upstream of one or more strong direct dependencies:<br><pre>rlang: igraph
+    <p>R-multiverse found issues with package multiverse.internals version 0.4.2 remote hash ae919e610a6dc01bd85cee85166b2637a0569bd9 (last published at 2025-04-08 06:40:46.901 UTC).<br><br>One or more strong R package dependencies have issues: nanonext, rlang. Dependency nanonext is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of multiverse.internals. Dependency rlang is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of multiverse.internals, but it is upstream of one or more strong direct dependencies:<br><pre>rlang: igraph
 </pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/staging/multiverse.internals.xml">https://r-multiverse.org/status/staging/multiverse.internals.xml</a> for automatic notifications
