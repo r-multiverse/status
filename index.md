@@ -14,7 +14,7 @@ Packages are staged for Production if they pass [R-multiverse checks](https://r-
 The following pages list packages with [R-multiverse check](https://r-multiverse.org/production.html#checks) issues.
 
 * [Community issues](https://r-multiverse.org/status/community.html)
-* [Production issues](https://r-multiverse.org/status/staging.html)
+* [Staging issues](https://r-multiverse.org/status/staging.html)
 
 ## Status details
 
