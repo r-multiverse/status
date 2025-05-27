@@ -68,6 +68,7 @@ jobs:
         
       - name: Copy package html files
         run: |
+          cp style.css docs
           cp -r community docs
           cp -r staging docs
 
