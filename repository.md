@@ -2,7 +2,7 @@
 title: "DIRECTORY issues"
 ---
 
-The following packages have [R-multiverse check issues](https://r-multiverse.org/production.html#checks) in DIRECTORY.
+The following SIZE packages have [R-multiverse check issues](https://r-multiverse.org/production.html#checks) in DIRECTORY.
 
 |Package|Version|Last published in DIRECTORY repository|
 |:--|:--|:--|
