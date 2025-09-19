@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>loo</title>
+  <atom:link href="https://r-multiverse.org/status/community/loo.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/loo.html</link>
+  <description>loo</description>
+  <item>
+    <title>loo: issues found</title>
+    <guid isPermaLink="false">23e68bf5fb8aa9d000358f3bbbf52cf7ee92a99c</guid>
+    <link>https://r-multiverse.org/status/community/loo.html</link>
+    <description>Visit https://r-multiverse.org/status/community/loo.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

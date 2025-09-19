@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>shinystan</title>
+  <atom:link href="https://r-multiverse.org/status/community/shinystan.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/shinystan.html</link>
+  <description>shinystan</description>
+  <item>
+    <title>shinystan: issues found</title>
+    <guid isPermaLink="false">05519b20ddcbf5ac6082a5933937627d4847b778</guid>
+    <link>https://r-multiverse.org/status/community/shinystan.html</link>
+    <description>Visit https://r-multiverse.org/status/community/shinystan.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

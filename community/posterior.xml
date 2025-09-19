@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>posterior</title>
+  <atom:link href="https://r-multiverse.org/status/community/posterior.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/posterior.html</link>
+  <description>posterior</description>
+  <item>
+    <title>posterior: issues found</title>
+    <guid isPermaLink="false">90a07cce51fdde484e97596cdd186adf265d8f5e</guid>
+    <link>https://r-multiverse.org/status/community/posterior.html</link>
+    <description>Visit https://r-multiverse.org/status/community/posterior.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>posteriordb</title>
+  <atom:link href="https://r-multiverse.org/status/community/posteriordb.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/posteriordb.html</link>
+  <description>posteriordb</description>
+  <item>
+    <title>posteriordb: success</title>
+    <guid isPermaLink="false">dfd1de915900e77affa65ed1da2149a211a54b5b</guid>
+    <link>https://r-multiverse.org/status/community/posteriordb.html</link>
+    <description>Visit https://r-multiverse.org/status/community/posteriordb.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
