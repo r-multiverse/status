@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>saperlipopette</title>
+  <atom:link href="https://r-multiverse.org/status/community/saperlipopette.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/saperlipopette.html</link>
+  <description>saperlipopette</description>
+  <item>
+    <title>saperlipopette: success</title>
+    <guid isPermaLink="false">d128c542b9e967d21a94ac99a815482c30cd4d08</guid>
+    <link>https://r-multiverse.org/status/community/saperlipopette.html</link>
+    <description>Visit https://r-multiverse.org/status/community/saperlipopette.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
