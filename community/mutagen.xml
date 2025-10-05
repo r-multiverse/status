@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>mutagen</title>
+  <atom:link href="https://r-multiverse.org/status/community/mutagen.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/mutagen.html</link>
+  <description>mutagen</description>
+  <item>
+    <title>mutagen: success</title>
+    <guid isPermaLink="false">2f5b5f43845e26db9aabdf7dc1c7d0c965ca1405</guid>
+    <link>https://r-multiverse.org/status/community/mutagen.html</link>
+    <description>Visit https://r-multiverse.org/status/community/mutagen.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
