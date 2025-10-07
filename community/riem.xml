@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>riem</title>
+  <atom:link href="https://r-multiverse.org/status/community/riem.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/riem.html</link>
+  <description>riem</description>
+  <item>
+    <title>riem: success</title>
+    <guid isPermaLink="false">5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33</guid>
+    <link>https://r-multiverse.org/status/community/riem.html</link>
+    <description>Visit https://r-multiverse.org/status/community/riem.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
