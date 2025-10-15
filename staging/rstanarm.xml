@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>rstanarm</title>
+  <atom:link href="https://r-multiverse.org/status/staging/rstanarm.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/rstanarm.html</link>
+  <description>rstanarm</description>
+  <item>
+    <title>rstanarm: issues found</title>
+    <guid isPermaLink="false">aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242</guid>
+    <link>https://r-multiverse.org/status/staging/rstanarm.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/rstanarm.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

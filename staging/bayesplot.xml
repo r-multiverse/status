@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>bayesplot</title>
+  <atom:link href="https://r-multiverse.org/status/staging/bayesplot.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/bayesplot.html</link>
+  <description>bayesplot</description>
+  <item>
+    <title>bayesplot: issues found</title>
+    <guid isPermaLink="false">6240b33a3d2d9afc88d925c9e91dc1f7e7413655</guid>
+    <link>https://r-multiverse.org/status/staging/bayesplot.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/bayesplot.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

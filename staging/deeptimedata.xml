@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>deeptimedata</title>
+  <atom:link href="https://r-multiverse.org/status/staging/deeptimedata.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/deeptimedata.html</link>
+  <description>deeptimedata</description>
+  <item>
+    <title>deeptimedata: issues found</title>
+    <guid isPermaLink="false">7f1d9e301bac0d580f93c168328ef2aaad490aca</guid>
+    <link>https://r-multiverse.org/status/staging/deeptimedata.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/deeptimedata.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

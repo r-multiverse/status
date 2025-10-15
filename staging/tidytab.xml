@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>tidytab</title>
+  <atom:link href="https://r-multiverse.org/status/staging/tidytab.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/tidytab.html</link>
+  <description>tidytab</description>
+  <item>
+    <title>tidytab: issues found</title>
+    <guid isPermaLink="false">0f5bed6c628d5e26be00058a1b7aaf0953620e2f</guid>
+    <link>https://r-multiverse.org/status/staging/tidytab.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/tidytab.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
