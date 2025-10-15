@@ -5,7 +5,11 @@
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse found issues with package jagstargets version 1.2.3 remote hash fef92d0d74f6e9832459ce4bee69396bca21fd3f (last published at 2025-10-15 03:20:03.296 UTC).<br><br>One or more strong R package dependencies have issues: posterior. Dependency posterior is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of jagstargets.<br><br></p>
+    <p>R-multiverse found issues with package jagstargets version 1.2.3 remote hash fef92d0d74f6e9832459ce4bee69396bca21fd3f (last published at 2025-10-15 03:20:03.296 UTC).<br><br>One or more strong R package dependencies have issues: igraph, posterior, tarchetypes, targets. Dependencies posterior, tarchetypes are explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of jagstargets. Dependencies igraph, targets are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of jagstargets, but they are upstream of one or more strong direct dependencies:<br><pre>igraph:
+- targets
+- tarchetypes
+targets: tarchetypes
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/staging/jagstargets.xml">https://r-multiverse.org/status/staging/jagstargets.xml</a> for automatic notifications
       about changes to the status of package jagstargets.
