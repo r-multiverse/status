@@ -2,9 +2,9 @@
   {
     "objectID": "production.html",
     "href": "production.html",
-    "title": "Production snapshot: 2025-09-15",
+    "title": "Production snapshot: 2025-12-15",
     "section": "",
-    "text": "The following 0 packages are staged for the 2025-09-15 Production snapshot because they passed R-multiverse checks at least once during the month-long period leading up to the snapshot date.\nThis package list empties out during every dependency freeze, repopulates every candidate freeze, and stays constant during the month after the Production snapshot. See the Production schedule for specific dates. See the Production documentation for details.\n\n\n\nPackage\nVersion\nLast published in Staging repository"
+    "text": "The following 0 packages are staged for the 2025-12-15 Production snapshot because they passed R-multiverse checks at least once during the month-long period leading up to the snapshot date.\nThis package list empties out during every dependency freeze, repopulates every candidate freeze, and stays constant during the month after the Production snapshot. See the Production schedule for specific dates. See the Production documentation for details.\n\n\n\nPackage\nVersion\nLast published in Staging repository"
   },
   {
     "objectID": "community.html",
