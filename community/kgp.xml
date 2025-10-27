@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>kgp</title>
+  <atom:link href="https://r-multiverse.org/status/community/kgp.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/kgp.html</link>
+  <description>kgp</description>
+  <item>
+    <title>kgp: success</title>
+    <guid isPermaLink="false">284855372dc1bd76ea3aceb2bd1e69404c237834</guid>
+    <link>https://r-multiverse.org/status/community/kgp.html</link>
+    <description>Visit https://r-multiverse.org/status/community/kgp.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
