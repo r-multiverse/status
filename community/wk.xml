@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>wk</title>
+  <atom:link href="https://r-multiverse.org/status/community/wk.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/wk.html</link>
+  <description>wk</description>
+  <item>
+    <title>wk: issues found</title>
+    <guid isPermaLink="false">f247a7e3ca0c29eb764ce21d41fa7dcf16fa649f</guid>
+    <link>https://r-multiverse.org/status/community/wk.html</link>
+    <description>Visit https://r-multiverse.org/status/community/wk.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
