@@ -1,11 +1,12 @@
 <!doctype html>
 <html>
   <head>
-    <title>multiverse.internals: success</title>
+    <title>multiverse.internals: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package multiverse.internals version 1.1.10 remote hash 0b6af6eb06221df195c2735dedf83052360a1bc9 (last published at 2026-01-08 03:16:12.835 UTC).</p>
+    <p>R-multiverse found issues with package multiverse.internals version 1.1.10 remote hash 0b6af6eb06221df195c2735dedf83052360a1bc9 (last published at 2026-01-08 03:16:12.835 UTC).<br><br>One or more strong R package dependencies have issues: igraph, vctrs. Dependency igraph is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of multiverse.internals. Dependency vctrs is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of multiverse.internals, but it is upstream of one or more strong direct dependencies:<br><pre>vctrs: igraph
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/multiverse.internals.xml">https://r-multiverse.org/status/community/multiverse.internals.xml</a> for automatic notifications
       about changes to the status of package multiverse.internals.

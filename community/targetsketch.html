@@ -1,11 +1,18 @@
 <!doctype html>
 <html>
   <head>
-    <title>targetsketch: success</title>
+    <title>targetsketch: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package targetsketch version 0.0.1 remote hash a199a734b16f91726698a19e5f147f57f79cb2b6 (last published at 2026-01-07 17:46:47.536 UTC).</p>
+    <p>R-multiverse found issues with package targetsketch version 0.0.1 remote hash a199a734b16f91726698a19e5f147f57f79cb2b6 (last published at 2026-01-07 17:46:47.536 UTC).<br><br>One or more strong R package dependencies have issues: igraph, tarchetypes, targets, vctrs. Dependency tarchetypes is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of targetsketch. Dependencies igraph, targets, vctrs are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of targetsketch, but they are upstream of one or more strong direct dependencies:<br><pre>igraph:
+- targets
+- tarchetypes
+targets: tarchetypes
+vctrs:
+- targets
+- tarchetypes
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/targetsketch.xml">https://r-multiverse.org/status/community/targetsketch.xml</a> for automatic notifications
       about changes to the status of package targetsketch.
