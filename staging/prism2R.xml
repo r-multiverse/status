@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>prism2R</title>
+  <atom:link href="https://r-multiverse.org/status/staging/prism2R.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/prism2R.html</link>
+  <description>prism2R</description>
+  <item>
+    <title>prism2R: issues found</title>
+    <guid isPermaLink="false">a70fcff2cc3b3af8ed0e09c086c25f553269ab3b</guid>
+    <link>https://r-multiverse.org/status/staging/prism2R.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/prism2R.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+    <title>sedonadb: issues found</title>
+    <link rel="stylesheet" href="../style.css">
+  </head>
+  <body>
+    <p>R-multiverse found issues with package sedonadb version 0.2.0 remote hash 69f89a9a0cced55a3792eb6dfe1f76e9dd01033c (last published at 2026-01-16 04:44:23.237 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following table links to the output log of each `R CMD check` run.<br><table class="checks-table"><tr><th>Platform</th><th>R</th><th>Result</th></tr><tr><th>linux-release-arm64</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/21016204741/job/60548271642">WARNING</a></th></tr><tr><th>linux-release-x86_64</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/21016204741/job/60548271649">WARNING</a></th></tr><tr><th>macos-release-arm64</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/21016204741/job/60548271631">WARNING</a></th></tr><tr><th>macos-release-x86_64</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/21016204741/job/60548271644">WARNING</a></th></tr><tr><th>windows-release</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/21016204741/job/60548271641">WARNING</a></th></tr></table><br>One or more strong R package dependencies have issues: nanoarrow, wk. Dependencies nanoarrow, wk are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of sedonadb, but they are upstream of one or more strong direct dependencies:<br><pre>nanoarrow: geoarrow
+wk: geoarrow
+</pre></p>
+    <p>
+      Subscribe to <a href="https://r-multiverse.org/status/staging/sedonadb.xml">https://r-multiverse.org/status/staging/sedonadb.xml</a> for automatic notifications
+      about changes to the status of package sedonadb.
+    </p>
+  </body>
+</html>
