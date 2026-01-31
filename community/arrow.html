@@ -1,11 +1,12 @@
 <!doctype html>
 <html>
   <head>
-    <title>arrow: success</title>
+    <title>arrow: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package arrow version 23.0.0 remote hash eafe3a9e620cf94683dee2347f370c35156dc965 (last published at 2026-01-27 15:20:36.176 UTC).</p>
+    <p>R-multiverse found issues with package arrow version 23.0.0 remote hash eafe3a9e620cf94683dee2347f370c35156dc965 (last published at 2026-01-27 15:20:36.176 UTC).<br><br>One or more strong R package dependencies have issues: cli. Dependency cli is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of arrow, but it is upstream of one or more strong direct dependencies:<br><pre>cli: vctrs
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/arrow.xml">https://r-multiverse.org/status/community/arrow.xml</a> for automatic notifications
       about changes to the status of package arrow.

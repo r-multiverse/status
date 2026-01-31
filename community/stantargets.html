@@ -5,7 +5,12 @@
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse found issues with package stantargets version 0.1.2 remote hash 638326106594be70c5f851c767349e4192740771 (last published at 2026-01-15 14:41:49.403 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following table links to the output log of each `R CMD check` run.<br><table class="checks-table"><tr><th>Platform</th><th>R</th><th>Result</th></tr><tr><th>linux-release-x86_64</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse/actions/runs/21031789082/job/60469896005">WARNING</a></th></tr><tr><th>macos-release-arm64</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse/actions/runs/21031789082/job/60469895989">WARNING</a></th></tr><tr><th>source</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse/actions/runs/21031789082/job/60469430284">ERROR</a></th></tr><tr><th>windows-release</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse/actions/runs/21031789082/job/60469895995">WARNING</a></th></tr></table><br>Package releases should not use the 'Remotes:' field. Found:<br><pre>- hyunjimoon/SBC
+    <p>R-multiverse found issues with package stantargets version 0.1.2 remote hash 638326106594be70c5f851c767349e4192740771 (last published at 2026-01-15 14:41:49.403 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following table links to the output log of each `R CMD check` run.<br><table class="checks-table"><tr><th>Platform</th><th>R</th><th>Result</th></tr><tr><th>linux-release-x86_64</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse/actions/runs/21031789082/job/60469896005">WARNING</a></th></tr><tr><th>macos-release-arm64</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse/actions/runs/21031789082/job/60469895989">WARNING</a></th></tr><tr><th>source</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse/actions/runs/21031789082/job/60469430284">ERROR</a></th></tr><tr><th>windows-release</th><th>4.5.2</th><th><a href="https://github.com/r-universe/r-multiverse/actions/runs/21031789082/job/60469895995">WARNING</a></th></tr></table><br>One or more strong R package dependencies have issues: cli. Dependency cli is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets, but it is upstream of one or more strong direct dependencies:<br><pre>cli:
+- cmdstanr
+- posterior
+- targets
+- tarchetypes
+</pre>Package releases should not use the 'Remotes:' field. Found:<br><pre>- hyunjimoon/SBC
 - stan-dev/cmdstanr
 </pre></p>
     <p>

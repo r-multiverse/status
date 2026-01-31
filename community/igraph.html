@@ -1,11 +1,12 @@
 <!doctype html>
 <html>
   <head>
-    <title>igraph: success</title>
+    <title>igraph: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package igraph version 2.2.1 remote hash 0f790930c1a348bc7cf12c9dec003cbcce66f0fd (last published at 2026-01-27 15:07:00.474 UTC).</p>
+    <p>R-multiverse found issues with package igraph version 2.2.1 remote hash 0f790930c1a348bc7cf12c9dec003cbcce66f0fd (last published at 2026-01-27 15:07:00.474 UTC).<br><br>One or more strong R package dependencies have issues: cli. Dependency cli is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of igraph, but it is upstream of one or more strong direct dependencies:<br><pre>cli: vctrs
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/igraph.xml">https://r-multiverse.org/status/community/igraph.xml</a> for automatic notifications
       about changes to the status of package igraph.
