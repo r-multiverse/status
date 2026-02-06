@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>bedrockbio</title>
+  <atom:link href="https://r-multiverse.org/status/community/bedrockbio.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/bedrockbio.html</link>
+  <description>bedrockbio</description>
+  <item>
+    <title>bedrockbio: issues found</title>
+    <guid isPermaLink="false">c24adc9905f06fa3f57b5fe0f11693b586addfce</guid>
+    <link>https://r-multiverse.org/status/community/bedrockbio.html</link>
+    <description>Visit https://r-multiverse.org/status/community/bedrockbio.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
