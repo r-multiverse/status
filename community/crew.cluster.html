@@ -1,11 +1,15 @@
 <!doctype html>
 <html>
   <head>
-    <title>crew.cluster: success</title>
+    <title>crew.cluster: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package crew.cluster version 0.4.0 remote hash 355fedb93ab83745444cb2a5ec87457e0f230528 (last published at 2026-01-27 14:53:55.563 UTC).</p>
+    <p>R-multiverse found issues with package crew.cluster version 0.4.0 remote hash 355fedb93ab83745444cb2a5ec87457e0f230528 (last published at 2026-01-27 14:53:55.563 UTC).<br><br>One or more strong R package dependencies have issues: crew, later, rlang. Dependency crew is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of crew.cluster. Dependencies later, rlang are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of crew.cluster, but they are upstream of one or more strong direct dependencies:<br><pre>later: crew
+rlang:
+- crew
+- vctrs
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/crew.cluster.xml">https://r-multiverse.org/status/community/crew.cluster.xml</a> for automatic notifications
       about changes to the status of package crew.cluster.
