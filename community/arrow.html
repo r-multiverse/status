@@ -1,11 +1,12 @@
 <!doctype html>
 <html>
   <head>
-    <title>arrow: success</title>
+    <title>arrow: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package arrow version 23.0.1 remote hash 82a374e5f3de5b744f26591e6cd96de6349c76d9 (last published at 2026-02-16 10:19:10.217 UTC).</p>
+    <p>R-multiverse found issues with package arrow version 23.0.1 remote hash 82a374e5f3de5b744f26591e6cd96de6349c76d9 (last published at 2026-02-16 10:19:10.217 UTC).<br><br>One or more strong R package dependencies have issues: rlang. Dependency rlang is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of arrow, but it is upstream of one or more strong direct dependencies:<br><pre>rlang: vctrs
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/arrow.xml">https://r-multiverse.org/status/community/arrow.xml</a> for automatic notifications
       about changes to the status of package arrow.
