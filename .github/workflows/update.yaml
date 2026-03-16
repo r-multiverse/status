@@ -37,16 +37,16 @@ jobs:
           pak::pkg_install("r-multiverse/multiverse.internals@*release")
 
       - name: Check out the status repository.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Check out the staging universe.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: '${{ github.repository_owner }}/staging'
           path: 'source_staging'
 
       - name: Check out the community universe.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: '${{ github.repository_owner }}/community'
           path: 'source_community'
