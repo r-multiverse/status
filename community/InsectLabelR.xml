@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>InsectLabelR</title>
+  <atom:link href="https://r-multiverse.org/status/community/InsectLabelR.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/InsectLabelR.html</link>
+  <description>InsectLabelR</description>
+  <item>
+    <title>InsectLabelR: issues found</title>
+    <guid isPermaLink="false">2aa4947112e572811c53bd5755c3f3db3ece71d7</guid>
+    <link>https://r-multiverse.org/status/community/InsectLabelR.html</link>
+    <description>Visit https://r-multiverse.org/status/community/InsectLabelR.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
