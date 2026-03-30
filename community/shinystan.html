@@ -1,11 +1,12 @@
 <!doctype html>
 <html>
   <head>
-    <title>shinystan: success</title>
+    <title>shinystan: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package shinystan version 2.7.0 remote hash 2036992879e7b1a7357340372f943303429da2b8 (last published at 2026-03-08 09:26:15.467 UTC).</p>
+    <p>R-multiverse found issues with package shinystan version 2.7.0 remote hash 2036992879e7b1a7357340372f943303429da2b8 (last published at 2026-03-08 09:26:15.467 UTC).<br><br>One or more strong R package dependencies have issues: posterior. Dependency posterior is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of shinystan, but it is upstream of one or more strong direct dependencies:<br><pre>posterior: bayesplot
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/shinystan.xml">https://r-multiverse.org/status/community/shinystan.xml</a> for automatic notifications
       about changes to the status of package shinystan.
