@@ -1,11 +1,14 @@
 <!doctype html>
 <html>
   <head>
-    <title>multiverse.internals: success</title>
+    <title>multiverse.internals: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package multiverse.internals version 1.1.10 remote hash 0b6af6eb06221df195c2735dedf83052360a1bc9 (last published at 2026-03-30 18:10:02.849 UTC).</p>
+    <p>R-multiverse found issues with package multiverse.internals version 1.1.10 remote hash 0b6af6eb06221df195c2735dedf83052360a1bc9 (last published at 2026-03-30 18:10:02.849 UTC).<br><br>One or more strong R package dependencies have issues: cli. Dependency cli is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of multiverse.internals, but it is upstream of one or more strong direct dependencies:<br><pre>cli:
+- igraph
+- vctrs
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/community/multiverse.internals.xml">https://r-multiverse.org/status/community/multiverse.internals.xml</a> for automatic notifications
       about changes to the status of package multiverse.internals.
