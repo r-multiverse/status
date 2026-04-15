@@ -1,11 +1,15 @@
 <!doctype html>
 <html>
   <head>
-    <title>projpred: success</title>
+    <title>projpred: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package projpred version 2.10.0 remote hash 4ba5b1e34d232c75732e81fc6cafdb40b5727cc2 (last published at 2026-03-17 07:20:26.638 UTC).</p>
+    <p>R-multiverse found issues with package projpred version 2.10.0 remote hash 4ba5b1e34d232c75732e81fc6cafdb40b5727cc2 (last published at 2026-03-17 07:20:26.638 UTC).<br><br>One or more strong R package dependencies have issues: cli, posterior, rlang, vctrs. Dependencies cli, posterior, rlang, vctrs are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of projpred, but they are upstream of one or more strong direct dependencies:<br><pre>cli: loo
+posterior: loo
+rlang: loo
+vctrs: loo
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/staging/projpred.xml">https://r-multiverse.org/status/staging/projpred.xml</a> for automatic notifications
       about changes to the status of package projpred.

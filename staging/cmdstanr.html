@@ -1,11 +1,14 @@
 <!doctype html>
 <html>
   <head>
-    <title>cmdstanr: success</title>
+    <title>cmdstanr: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package cmdstanr version 0.9.0 remote hash da99e2ba954658bdad63bffb738c4444c33a4e0e (last published at NA).</p>
+    <p>R-multiverse found issues with package cmdstanr version 0.9.0 remote hash da99e2ba954658bdad63bffb738c4444c33a4e0e (last published at NA).<br><br>One or more strong R package dependencies have issues: cli, posterior, rlang, vctrs. Dependency posterior is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of cmdstanr. Dependencies cli, rlang, vctrs are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of cmdstanr, but they are upstream of one or more strong direct dependencies:<br><pre>cli: posterior
+rlang: posterior
+vctrs: posterior
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/staging/cmdstanr.xml">https://r-multiverse.org/status/staging/cmdstanr.xml</a> for automatic notifications
       about changes to the status of package cmdstanr.

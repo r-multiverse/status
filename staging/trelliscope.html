@@ -1,11 +1,13 @@
 <!doctype html>
 <html>
   <head>
-    <title>trelliscope: success</title>
+    <title>trelliscope: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package trelliscope version 0.1.14 remote hash 99dfb29c0057680ecf92ed2b061dd833cfd667f8 (last published at NA).</p>
+    <p>R-multiverse found issues with package trelliscope version 0.1.14 remote hash 99dfb29c0057680ecf92ed2b061dd833cfd667f8 (last published at NA).<br><br>One or more strong R package dependencies have issues: cli, rlang, vctrs. Dependency vctrs is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of trelliscope. Dependencies cli, rlang are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of trelliscope, but they are upstream of one or more strong direct dependencies:<br><pre>cli: vctrs
+rlang: vctrs
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/staging/trelliscope.xml">https://r-multiverse.org/status/staging/trelliscope.xml</a> for automatic notifications
       about changes to the status of package trelliscope.
