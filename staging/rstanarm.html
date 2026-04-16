@@ -5,19 +5,10 @@
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse found issues with package rstanarm version 2.32.2 remote hash aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242 (last published at 2026-03-19 04:41:59.680 UTC).<br><br>One or more strong R package dependencies have issues: cli, posterior, rlang, vctrs. Dependencies cli, posterior, rlang, vctrs are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of rstanarm, but they are upstream of one or more strong direct dependencies:<br><pre>cli:
-- bayesplot
-- loo
-- posterior
-- shinystan
+    <p>R-multiverse found issues with package rstanarm version 2.32.2 remote hash aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242 (last published at 2026-03-19 04:41:59.680 UTC).<br><br>One or more strong R package dependencies have issues: bayesplot, loo, posterior, vctrs. Dependency loo is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of rstanarm. Dependencies bayesplot, posterior, vctrs are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of rstanarm, but they are upstream of one or more strong direct dependencies:<br><pre>bayesplot: shinystan
 posterior:
 - bayesplot
 - loo
-- shinystan
-rlang:
-- bayesplot
-- loo
-- posterior
 - shinystan
 vctrs:
 - bayesplot

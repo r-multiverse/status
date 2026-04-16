@@ -5,23 +5,11 @@
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse found issues with package stantargets version 0.1.2 remote hash 638326106594be70c5f851c767349e4192740771 (last published at NA).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following table links to the output log of each `R CMD check` run.<br><table class="checks-table"><tr><th>Platform</th><th>R</th><th>Result</th></tr><tr><th>linux-release-x86_64</th><th>4.5.3</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629290">WARNING</a></th></tr><tr><th>macos-release-arm64</th><th>4.5.3</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629308">WARNING</a></th></tr><tr><th>source</th><th>4.5.3</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70393855606">ERROR</a></th></tr><tr><th>windows-oldrel</th><th>4.5.3</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629324">WARNING</a></th></tr><tr><th>windows-release</th><th>4.5.3</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629304">WARNING</a></th></tr></table><br>One or more strong R package dependencies have issues: cli, igraph, posterior, rlang, secretbase, tarchetypes, vctrs. Dependency tarchetypes is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets. Dependencies cli, igraph, posterior, rlang, secretbase, vctrs are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets, but they are upstream of one or more strong direct dependencies:<br><pre>cli:
-- cmdstanr
-- posterior
-- targets
-- tarchetypes
-igraph:
+    <p>R-multiverse found issues with package stantargets version 0.1.2 remote hash 638326106594be70c5f851c767349e4192740771 (last published at NA).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following table links to the output log of each `R CMD check` run.<br><table class="checks-table"><tr><th>Platform</th><th>R</th><th>Result</th></tr><tr><th>linux-release-x86_64</th><th>4.5.3</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629290">WARNING</a></th></tr><tr><th>macos-release-arm64</th><th>4.5.3</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629308">WARNING</a></th></tr><tr><th>source</th><th>4.5.3</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70393855606">ERROR</a></th></tr><tr><th>windows-oldrel</th><th>4.5.3</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629324">WARNING</a></th></tr><tr><th>windows-release</th><th>4.5.3</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/22886434550/job/70394629304">WARNING</a></th></tr></table><br>One or more strong R package dependencies have issues: igraph, posterior, tarchetypes, targets, vctrs. Dependency tarchetypes is explicitly mentioned in 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets. Dependencies igraph, posterior, targets, vctrs are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets, but they are upstream of one or more strong direct dependencies:<br><pre>igraph:
 - targets
 - tarchetypes
 posterior: cmdstanr
-rlang:
-- cmdstanr
-- posterior
-- targets
-- tarchetypes
-secretbase:
-- targets
-- tarchetypes
+targets: tarchetypes
 vctrs:
 - cmdstanr
 - posterior
