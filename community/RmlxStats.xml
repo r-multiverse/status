@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>RmlxStats</title>
+  <atom:link href="https://r-multiverse.org/status/community/RmlxStats.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/RmlxStats.html</link>
+  <description>RmlxStats</description>
+  <item>
+    <title>RmlxStats: issues found</title>
+    <guid isPermaLink="false">36963b9c305b2487d6f93264c34d1c37bd0d5ea5</guid>
+    <link>https://r-multiverse.org/status/community/RmlxStats.html</link>
+    <description>Visit https://r-multiverse.org/status/community/RmlxStats.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>ggmagnify</title>
+  <atom:link href="https://r-multiverse.org/status/community/ggmagnify.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/ggmagnify.html</link>
+  <description>ggmagnify</description>
+  <item>
+    <title>ggmagnify: issues found</title>
+    <guid isPermaLink="false">1eda21aba4f717d0c3525dbafe44670d4f091e54</guid>
+    <link>https://r-multiverse.org/status/community/ggmagnify.html</link>
+    <description>Visit https://r-multiverse.org/status/community/ggmagnify.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

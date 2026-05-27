@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>onetime</title>
+  <atom:link href="https://r-multiverse.org/status/community/onetime.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/onetime.html</link>
+  <description>onetime</description>
+  <item>
+    <title>onetime: success</title>
+    <guid isPermaLink="false">e36294db9b20ec964487b251fd76306c890d3891</guid>
+    <link>https://r-multiverse.org/status/community/onetime.html</link>
+    <description>Visit https://r-multiverse.org/status/community/onetime.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
