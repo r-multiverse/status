@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>ggseg.meshes</title>
+  <atom:link href="https://r-multiverse.org/status/community/ggseg.meshes.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/ggseg.meshes.html</link>
+  <description>ggseg.meshes</description>
+  <item>
+    <title>ggseg.meshes: success</title>
+    <guid isPermaLink="false">964f1f59d9b224c31b7a67994007ac3024263962</guid>
+    <link>https://r-multiverse.org/status/community/ggseg.meshes.html</link>
+    <description>Visit https://r-multiverse.org/status/community/ggseg.meshes.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
