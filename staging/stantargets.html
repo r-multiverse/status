@@ -5,7 +5,15 @@
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse found issues with package stantargets version 0.1.3 remote hash 1a1e0feedeae5437fe45f34d26b3d180576f3f18 (last published at 2026-07-07 17:30:57.484 UTC).<br><br>One or more strong R package dependencies have issues: igraph. Dependency igraph is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets, but it is upstream of one or more strong direct dependencies:<br><pre>igraph:
+    <p>R-multiverse found issues with package stantargets version 0.1.3 remote hash 1a1e0feedeae5437fe45f34d26b3d180576f3f18 (last published at 2026-07-15 04:55:29.520 UTC).<br><br>One or more strong R package dependencies have issues: igraph, rlang, secretbase. Dependencies igraph, rlang, secretbase are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of stantargets, but they are upstream of one or more strong direct dependencies:<br><pre>igraph:
+- targets
+- tarchetypes
+rlang:
+- cmdstanr
+- posterior
+- targets
+- tarchetypes
+secretbase:
 - targets
 - tarchetypes
 </pre>Package releases should not use the 'Remotes:' field. Found:<br><pre>- hyunjimoon/SBC

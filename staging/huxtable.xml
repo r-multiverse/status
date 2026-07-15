@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>huxtable</title>
+  <atom:link href="https://r-multiverse.org/status/staging/huxtable.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/staging/huxtable.html</link>
+  <description>huxtable</description>
+  <item>
+    <title>huxtable: issues found</title>
+    <guid isPermaLink="false">affacfb24067439cf2277cfe7bc8a0dd88c41222</guid>
+    <link>https://r-multiverse.org/status/staging/huxtable.html</link>
+    <description>Visit https://r-multiverse.org/status/staging/huxtable.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>

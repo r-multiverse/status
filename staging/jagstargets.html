@@ -5,7 +5,14 @@
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse found issues with package jagstargets version 1.2.3 remote hash fef92d0d74f6e9832459ce4bee69396bca21fd3f (last published at 2026-07-04 03:26:54.131 UTC).<br><br>One or more strong R package dependencies have issues: igraph. Dependency igraph is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of jagstargets, but it is upstream of one or more strong direct dependencies:<br><pre>igraph:
+    <p>R-multiverse found issues with package jagstargets version 1.2.3 remote hash fef92d0d74f6e9832459ce4bee69396bca21fd3f (last published at 2026-07-15 04:55:15.374 UTC).<br><br>One or more strong R package dependencies have issues: igraph, rlang, secretbase. Dependencies igraph, rlang, secretbase are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of jagstargets, but they are upstream of one or more strong direct dependencies:<br><pre>igraph:
+- targets
+- tarchetypes
+rlang:
+- posterior
+- targets
+- tarchetypes
+secretbase:
 - targets
 - tarchetypes
 </pre></p>
