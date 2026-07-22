@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>californiaalw</title>
+  <atom:link href="https://r-multiverse.org/status/community/californiaalw.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/californiaalw.html</link>
+  <description>californiaalw</description>
+  <item>
+    <title>californiaalw: success</title>
+    <guid isPermaLink="false">34529f9aa4641e3dae7acc1e27281526e5b0907a</guid>
+    <link>https://r-multiverse.org/status/community/californiaalw.html</link>
+    <description>Visit https://r-multiverse.org/status/community/californiaalw.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
