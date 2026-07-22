@@ -1,12 +1,11 @@
 <!doctype html>
 <html>
   <head>
-    <title>igraph: issues found</title>
+    <title>igraph: success</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse found issues with package igraph version 2.3.1 remote hash c2ce5b1cd3e2f17740657ada5a0db39c449753c1 (last published at 2026-07-15 04:52:13.790 UTC).<br><br>Not all `R CMD check` runs succeeded on R-universe. The following table links to the output log of each `R CMD check` run.<br><table class="checks-table"><tr><th>Platform</th><th>R</th><th>Result</th></tr><tr><th>linux-release-arm64</th><th>4.6.0</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/28065442717/job/85158890641">ERROR</a></th></tr><tr><th>linux-release-x86_64</th><th>4.6.0</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/28065442717/job/85158890564">ERROR</a></th></tr><tr><th>macos-release-arm64</th><th>4.6.0</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/28065442717/job/85158890616">ERROR</a></th></tr><tr><th>macos-release-x86_64</th><th>4.6.0</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/28065442717/job/85158890593">ERROR</a></th></tr><tr><th>windows-release</th><th>4.6.0</th><th><a href="https://github.com/r-universe/r-multiverse-staging/actions/runs/28065442717/job/85158890721">ERROR</a></th></tr></table><br>One or more strong R package dependencies have issues: rlang. Dependency rlang is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of igraph, but it is upstream of one or more strong direct dependencies:<br><pre>rlang: vctrs
-</pre>On CRAN, this package had version 2.3.3 during the first day of the most recent R-multiverse dependency freeze. The version on R-multiverse is lower, which causes install.packages() to prefer CRAN. If you have not already done so, please ensure the latest source code release of your package has a suitably recent version in the DESCRIPTION file.<br><br></p>
+    <p>R-multiverse checks passed for package igraph version 2.3.3 remote hash a1b77d04e27b676e88c306db883f71ecd625b912 (last published at 2026-07-17 05:20:23.967 UTC).</p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/staging/igraph.xml">https://r-multiverse.org/status/staging/igraph.xml</a> for automatic notifications
       about changes to the status of package igraph.
