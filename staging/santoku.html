@@ -1,11 +1,12 @@
 <!doctype html>
 <html>
   <head>
-    <title>santoku: success</title>
+    <title>santoku: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package santoku version 1.2.1 remote hash da7bdc3a652b3de9fff85615fedacc24c82b788d (last published at 2026-07-16 04:57:52.816 UTC).</p>
+    <p>R-multiverse found issues with package santoku version 1.2.1 remote hash da7bdc3a652b3de9fff85615fedacc24c82b788d (last published at 2026-07-16 04:57:52.816 UTC).<br><br>One or more strong R package dependencies have issues: rlang. Dependency rlang is not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of santoku, but it is upstream of one or more strong direct dependencies:<br><pre>rlang: vctrs
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/staging/santoku.xml">https://r-multiverse.org/status/staging/santoku.xml</a> for automatic notifications
       about changes to the status of package santoku.
