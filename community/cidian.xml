@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>cidian</title>
+  <atom:link href="https://r-multiverse.org/status/community/cidian.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/cidian.html</link>
+  <description>cidian</description>
+  <item>
+    <title>cidian: success</title>
+    <guid isPermaLink="false">79d37afacaf229a9481aec0672bf4d2604ee443d</guid>
+    <link>https://r-multiverse.org/status/community/cidian.html</link>
+    <description>Visit https://r-multiverse.org/status/community/cidian.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
