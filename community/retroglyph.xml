@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>retroglyph</title>
+  <atom:link href="https://r-multiverse.org/status/community/retroglyph.xml" rel="self" type="application/rss+xml"/>
+  <link>https://r-multiverse.org/status/community/retroglyph.html</link>
+  <description>retroglyph</description>
+  <item>
+    <title>retroglyph: issues found</title>
+    <guid isPermaLink="false">3a5cc55d246cee94d68d7b027f0426092544e371</guid>
+    <link>https://r-multiverse.org/status/community/retroglyph.html</link>
+    <description>Visit https://r-multiverse.org/status/community/retroglyph.html to learn about the problems.</description>
+  </item>
+</channel>
+</rss>
