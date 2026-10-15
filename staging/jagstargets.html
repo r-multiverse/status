@@ -1,11 +1,17 @@
 <!doctype html>
 <html>
   <head>
-    <title>jagstargets: success</title>
+    <title>jagstargets: issues found</title>
     <link rel="stylesheet" href="../style.css">
   </head>
   <body>
-    <p>R-multiverse checks passed for package jagstargets version 1.2.3 remote hash fef92d0d74f6e9832459ce4bee69396bca21fd3f (last published at 2026-10-14 11:46:40.799 UTC).</p>
+    <p>R-multiverse found issues with package jagstargets version 1.2.3 remote hash fef92d0d74f6e9832459ce4bee69396bca21fd3f (last published at 2026-10-15 03:19:45.582 UTC).<br><br>One or more strong R package dependencies have issues: igraph, secretbase. Dependencies igraph, secretbase are not part of 'Depends:', 'Imports:', or 'LinkingTo:' in the DESCRIPTION file of jagstargets, but they are upstream of one or more strong direct dependencies:<br><pre>igraph:
+- targets
+- tarchetypes
+secretbase:
+- targets
+- tarchetypes
+</pre></p>
     <p>
       Subscribe to <a href="https://r-multiverse.org/status/staging/jagstargets.xml">https://r-multiverse.org/status/staging/jagstargets.xml</a> for automatic notifications
       about changes to the status of package jagstargets.
